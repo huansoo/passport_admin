@@ -1,0 +1,13 @@
+[{
+    "text":"吾谷网",
+    "state":"open",
+    "children":[{
+        "text":"码表维护",
+        "attributes":{
+        	"url":"jsp/system_code/code_list.jsp"
+        }
+    },{
+    	"text":"会员管理",
+    	"attributes":""
+    }]
+}]

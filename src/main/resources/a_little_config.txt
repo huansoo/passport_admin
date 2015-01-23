@@ -1,0 +1,6 @@
+jdbcUrl = jdbc:mysql://192.168.1.115/cms_app?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull
+user = root
+password = Wgool%1
+devMode = true
+
+
